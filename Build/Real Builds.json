@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll a Ball",
+"dataUrl": "Real Builds.data.unityweb",
+"asmCodeUrl": "Real Builds.asm.code.unityweb",
+"asmMemoryUrl": "Real Builds.asm.memory.unityweb",
+"asmFrameworkUrl": "Real Builds.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
